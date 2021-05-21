@@ -1,5 +1,7 @@
 # Journey
 
+[VISIT THE SITE HERE](https://journey-lhl.netlify.app/)
+
 ## About
 
 Journey is a single page app for creating trip itineraries for groups in real time, and browsing public itineraries for inspiration.
